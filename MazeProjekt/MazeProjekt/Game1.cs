@@ -85,8 +85,8 @@ namespace MazeProjekt
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
-            // TODO: Add your drawing code here
-            //maze.Draw(camera, effect);
+            // Draws the scene
+           
             scene.Draw(gameTime);
             base.Draw(gameTime);
         }

@@ -42,18 +42,17 @@
     <ApplicationManifest>app.manifest</ApplicationManifest>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Camera.cs" />
-    <Compile Include="Floor.cs" />
+    <Compile Include="Gameobjects\Camera.cs" />
+    <Compile Include="Gameobjects\Floor.cs" />
     <Compile Include="Game1.cs" />
-    <Compile Include="IMesh.cs" />
-    <Compile Include="Maze.cs" />
-    <Compile Include="MazeMap.cs" />
-    <Compile Include="Node.cs" />
-    <Compile Include="Player.cs" />
+    <Compile Include="HelperClasses\IMesh.cs" />
+    <Compile Include="ObjectManager\Maze.cs" />
+    <Compile Include="ObjectManager\MazeMap.cs" />
+    <Compile Include="HelperClasses\Node.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Scene.cs" />
-    <Compile Include="Wall.cs" />
+    <Compile Include="Scene\Scene.cs" />
+    <Compile Include="Gameobjects\Wall.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="MonoGame.Framework">
