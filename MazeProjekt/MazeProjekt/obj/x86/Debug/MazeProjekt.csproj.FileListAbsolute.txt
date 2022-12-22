@@ -1,0 +1,46 @@
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\MazeProjekt.exe
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\MazeProjekt.pdb
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt\MazeProjekt\MazeProjekt\obj\x86\Debug\MazeProjekt.csproj.AssemblyReference.cache
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt\MazeProjekt\MazeProjekt\obj\x86\Debug\MazeProjekt.csproj.CoreCompileInputs.cache
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt\MazeProjekt\MazeProjekt\obj\x86\Debug\MazeProjekt.csproj.CopyComplete
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt\MazeProjekt\MazeProjekt\obj\x86\Debug\MazeProjekt.exe
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt\MazeProjekt\MazeProjekt\obj\x86\Debug\MazeProjekt.pdb
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt - Kopie\MazeProjekt\MazeProjekt\obj\x86\Debug\MazeProjekt.csproj.AssemblyReference.cache
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt - Kopie\MazeProjekt\MazeProjekt\obj\x86\Debug\MazeProjekt.csproj.CoreCompileInputs.cache
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt - Kopie\MazeProjekt\MazeProjekt\obj\x86\Debug\MazeProjekt.exe
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt - Kopie\MazeProjekt\MazeProjekt\obj\x86\Debug\MazeProjekt.pdb
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt - Kopie\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\MazeProjekt.exe
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt - Kopie\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\MazeProjekt.pdb
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt - Kopie\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt - Kopie\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt - Kopie\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt - Kopie\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt - Kopie\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt - Kopie\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt - Kopie\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt - Kopie\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt - Kopie\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt - Kopie\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt - Kopie\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt - Kopie\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt - Kopie\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt - Kopie\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt - Kopie\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt - Kopie\MazeProjekt\MazeProjekt\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\timmu\OneDrive\Dokumente\bibFiles\MazeProjekt - Kopie\MazeProjekt\MazeProjekt\obj\x86\Debug\MazeProjekt.csproj.CopyComplete
