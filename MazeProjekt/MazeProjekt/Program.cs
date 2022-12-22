@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MazeProjekt
+namespace MazeGame
 {
 #if WINDOWS || LINUX
     /// <summary>

@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MazeProjekt
+namespace MazeGame
 {
     //Creates a white and Gray Tilled Floor
     public class Floor : IMesh
